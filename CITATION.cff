@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si utilizas este contenido en tus investigaciones, por favor cítenos de la siguiente manera:"
+title: "Cognitum: Ecosistema de Divulgación Científica de Nestory Channel"
+authors:
+  - family-names: "Canal"
+    given-names: "Nestory"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Si tienes ORCID, ponlo aquí
+type: software
+version: 1.0.0
+date-released: 2026-06-07
+url: "https://github.com/nestorychannel/cognitum"
+keywords:
+  - "Divulgación Científica"
+  - "Cuerpo"
+  - "Mente"
+  - "Espíritu"
+  - "Cognitum"
+  - "Nestory Channel"
+abstract: "Cognitum es el archivo central de Nestory Channel, dedicado a la integración científica del bienestar humano mediante la interconexión de podcast y documentación académica."
+license: CC-BY-4.0
