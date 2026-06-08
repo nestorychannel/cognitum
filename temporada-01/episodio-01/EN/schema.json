@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "name": "Scientific Dissemination Paradigms in the Algorithmic Era: A Multidimensional Analysis of Integrity, Literacy, and Well-being.",
+  "description": "Season 01 episode on the scientific integration of Body, Mind, and Spirit in the algorithmic era.",
+  "inLanguage": "en",
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "encodingFormat": "audio/mpeg"
+  },
+  "isPartOf": {
+    "@type": "PodcastSeries",
+    "name": "Cognitum - Nestory Channel"
+  },
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Nestory Canal"
+  },
+  "copyrightYear": "2026",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}
