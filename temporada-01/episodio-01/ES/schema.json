@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "name": "Paradigmas de la Difusión Científica en la Era Algorítmica: Un Análisis Multidimensional de Integridad, Alfabetización y Bienestar.",
+  "description": "Episodio de la Temporada 01 sobre la integración científica de Cuerpo, Mente y Espíritu en la era algorítmica.",
+  "inLanguage": "es",
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "encodingFormat": "audio/mpeg"
+  },
+  "isPartOf": {
+    "@type": "PodcastSeries",
+    "name": "Cognitum - Nestory Channel"
+  },
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Nestory Canal"
+  },
+  "copyrightYear": "2026",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}
