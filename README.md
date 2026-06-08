@@ -7,8 +7,8 @@ Divulgación científica, Cuerpo, Mente y Espíritu, Proyecto Cognitum
 Proveer trazabilidad académica y acceso abierto a materiales de divulgación científica, validados bajo rigor metodológico.
 
 ## Estructura del Ecosistema
-- **Secciones:** Contenidos organizados en series de 12 episodios.
-- **Formato:** Integración de Podcast, Documentación técnica (PDF) y Repositorio de datos.
+- **Secciones:** Contenidos organizados en Temporadas de 12 episodios.
+- **Formato:** Integración de Podcast, Video, inforgrafia, Slide, Documentación técnica (PDF) y Repositorio de datos.
 - **Acceso:** Materiales alojados bajo estándares de citación abierta.
 
 ## Contacto y Referencias
